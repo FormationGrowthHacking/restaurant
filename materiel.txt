@@ -3,4 +3,5 @@ Pour monter un restaurant, il faut:
     - des chaises,
     - des cuillères,
     - etc....
-    
+    - bar
+    - tabourets
